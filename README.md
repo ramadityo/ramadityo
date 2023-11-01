@@ -4,7 +4,11 @@
 <br>
 <h2 align="center">🌐 Socials:</h2>
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/adityo) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rama__adityo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kafka-ramadityo) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@animecodeindo) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@animecodeindo)
+<h1 align="center">
+  
+  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/adityo) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rama__adityo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kafka-ramadityo) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@animecodeindo) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@animecodeindo)
+  
+</h1>
 
 <br>
 <h2 align="center">💻 Tech Stack:</h2>
@@ -17,23 +21,19 @@
 </h1>
 
 <br>
-<p style="font-weight: bold;font-size: 2rem;">📊 GitHub Stats:</p>
+<h2 align="center">📊 GitHub Stats:</h2>
 
 ![](https://github-readme-stats.vercel.app/api?username=RzCodez&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RzCodez&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RzCodez&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <br>
-<p style="font-weight: bold;font-size: 2rem;">🏆 GitHub Trophies</p>
+<h2 align="center">🏆 GitHub Trophies</h2>
 
 ![](https://github-profile-trophy.vercel.app/?username=RzCodez&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
 <br>
-<p style="font-weight: bold;font-size: 2rem;">💰 You can help me by Donating</p>
-<div style="display: flex;justify-content: space-between;padding: 0 2rem; align-items: center; margin: 0;">
-
-  <a href="https://ko-fi.com/animecodeindo" style="display: block; margin: 0; padding: 0;">
+<h2 align="center">💰 You can help me by Donating</h2>
+<a href="https://ko-fi.com/animecodeindo" style="display: block; margin: 0; padding: 0;" align="center">
     <img  src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="">
   </a>
-
-</div>
