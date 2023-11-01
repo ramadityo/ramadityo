@@ -1,6 +1,6 @@
 <h1 align="center">👋 Welcome!</h1>
 <p align="center">
-<img src="https://github.com/RzCodez/RzCodez/blob/main/blue-archive-168.gif?raw=true" alt="profile-welcome" width="100">
+<img src="https://github.com/RzCodez/RzCodez/blob/main/blue-archive-168.gif?raw=true" alt="profile-welcome" width="300">
 </p>
 
 <br>
