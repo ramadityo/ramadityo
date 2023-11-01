@@ -1,9 +1,8 @@
-
-  <h1 align="center">Welcome!</h1>
-  <img src="https://tenor.com/view/blue-archive-168-iroha-blue-archive-iroha-gif-25722107" alt="profile-welcome">
+<h1 align="center">Welcome!</h1>
+<img src="https://tenor.com/view/blue-archive-168-iroha-blue-archive-iroha-gif-25722107" alt="profile-welcome">
 
 <br>
-<p style="font-weight: bold;font-size: 2rem;">🌐 Socials:</p>
+<h2 align="center">🌐 Socials:</h2>
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/adityo) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rama__adityo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kafka-ramadityo) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@animecodeindo) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@animecodeindo)
 
