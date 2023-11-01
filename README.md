@@ -1,4 +1,4 @@
-<center>
+<p align="center">
   <p style="font-weight: bold;font-size: 3rem;">Welcome!</p>
   <img src="https://tenor.com/view/blue-archive-168-iroha-blue-archive-iroha-gif-25722107" alt="profile-welcome">
 
@@ -35,4 +35,4 @@
   </a>
 
 </div>
-</center>
+</p>
