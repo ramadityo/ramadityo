@@ -1,7 +1,8 @@
 <h1 align="center">Welcome!</h1>
-<img src="https://github.com/RzCodez/RzCodez/blob/main/blue-archive-168.gif?raw=true" alt="profile-welcome">
+<h1 align="center">
+<img src="https://tenor.com/view/blue-archive-168-iroha-blue-archive-iroha-gif-25722107" alt="profile-welcome">
+</h1>
 
-![](https://tenor.com/view/blue-archive-168-iroha-blue-archive-iroha-gif-25722107)
 
 <br>
 <h2 align="center">🌐 Socials:</h2>
