@@ -1,6 +1,8 @@
 <h1 align="center">Welcome!</h1>
 <img src="https://tenor.com/view/blue-archive-168-iroha-blue-archive-iroha-gif-25722107" alt="profile-welcome">
 
+![](https://tenor.com/view/blue-archive-168-iroha-blue-archive-iroha-gif-25722107)
+
 <br>
 <h2 align="center">🌐 Socials:</h2>
 
