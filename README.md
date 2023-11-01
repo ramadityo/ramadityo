@@ -1,5 +1,5 @@
-<p align="center">
-  <p style="font-weight: bold;font-size: 3rem;">Welcome!</p>
+
+  <h1 align="center">Welcome!</h1>
   <img src="https://tenor.com/view/blue-archive-168-iroha-blue-archive-iroha-gif-25722107" alt="profile-welcome">
 
 <br>
@@ -35,4 +35,3 @@
   </a>
 
 </div>
-</p>
