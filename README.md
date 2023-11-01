@@ -1,8 +1,7 @@
 <h1 align="center">Welcome!</h1>
-<h1 align="center">
+<p align="center">
 <img src="https://github.com/RzCodez/RzCodez/blob/main/blue-archive-168.gif?raw=true" alt="profile-welcome">
-</h1>
-
+</p>
 
 <br>
 <h2 align="center">🌐 Socials:</h2>
