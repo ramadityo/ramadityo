@@ -34,6 +34,8 @@
 
 <br>
 <h2 align="center">💰 You can help me by Donating</h2>
-<a href="https://ko-fi.com/animecodeindo" style="display: block; margin: 0; padding: 0;" align="center">
+<h1 align="center">
+  <a href="https://ko-fi.com/animecodeindo" style="display: block; margin: 0; padding: 0;" align="center">
     <img  src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="">
   </a>
+</h1>
