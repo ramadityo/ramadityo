@@ -1,7 +1,7 @@
 <h1 align="center">👋 Welcome!</h1>
-<p align="center">Currently studying at the University of Pembangunan Jaya for a degree in Informatics Engineering. Passionate about technology and design, leading to a journey in creative web development and UI/UX design. Loves the challenge of coding complex functionality and bringing designs to life.
+<center>Currently studying at the University of Pembangunan Jaya for a degree in Informatics Engineering. Passionate about technology and design, leading to a journey in creative web development and UI/UX design. Loves the challenge of coding complex functionality and bringing designs to life.
 
-Expertise in UI/UX design enables the creation of intuitive and engaging digital experiences. Strong belief that a successful digital product is as much about thoughtful design as it is about well-written code. Always eager to learn more and take on new challenges in the technology industry.</p>
+Expertise in UI/UX design enables the creation of intuitive and engaging digital experiences. Strong belief that a successful digital product is as much about thoughtful design as it is about well-written code. Always eager to learn more and take on new challenges in the technology industry.</center>
 <h2 align="center">🌐 Socials:</h2>
 <h1 align="center">
   
