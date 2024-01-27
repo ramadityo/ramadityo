@@ -7,8 +7,10 @@ Creative Web Developer & UI/UX Designer
 Currently studying at the University of Pembangunan Jaya for a degree in Informatics Engineering. Passionate about technology and design, leading to a journey in creative web development and UI/UX design. Loves the challenge of coding complex functionality and bringing designs to life. Expertise in UI/UX design enables the creation of intuitive and engaging digital experiences. Strong belief that a successful digital product is as much about thoughtful design as it is about well-written code. Always eager to learn more and take on new challenges in the technology industry.
 
 * 🌍  I'm based in South Tangerang, Banten, Indonesia
-* 🧠  I'm learning Next.js, Typescript, Anime.js, Figma
+* 🧠  I'm learning Next.js, Typescript, Anime.js, Figma, GSAP, Framer
 * ⚡  I loves Anime, Web Animation, Artifical Intelligence (i'm not sure)
+
+### ENG ![https://github.com/hampusborgos/country-flags/blob/main/png250px/id.png?raw=true]
 
 ### Skills
 
@@ -23,10 +25,3 @@ Currently studying at the University of Pembangunan Jaya for a degree in Informa
 <p align="left">
 <a href="https://www.github.com/RzCodez" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@animecodeindo" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/RzCodez"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RzCodez&stroke=ffffff&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/RzCodez" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RzCodez&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
