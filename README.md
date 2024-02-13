@@ -23,4 +23,4 @@ Currently studying at the University of Pembangunan Jaya for a degree in Informa
 <p align="left">
 <a href="https://www.github.com/RzCodez" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@animecodeindo" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
 
-![readmebox](https://raw.githubusercontent.com/RzCodez/RzCodez/main/readmebox.svg)
+![animationbox](https://raw.githubusercontent.com/RzCodez/RzCodez/main/readmebox.svg)
