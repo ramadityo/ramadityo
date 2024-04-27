@@ -1,4 +1,4 @@
-Hi 👋 My name is Rama Adityo
+Hi 👋 My name is K. Ramadityo
 ================================
 
 Student, Web & Mobile App Developer, Content Creator
