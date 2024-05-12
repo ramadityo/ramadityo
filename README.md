@@ -28,7 +28,7 @@ Currently studying at the University of Pembangunan Jaya for a degree in Informa
 </p>
 
 <p align="center">
-<bold>新しいことを学ぶのが好きな暇人です、よろしくヾ(≧▽≦*)o</bold>
+<b>新しいことを学ぶのが好きな暇人です、よろしくヾ(≧▽≦*)o</b>
 </p>
 
 ![animationbox](https://raw.githubusercontent.com/RzCodez/RzCodez/main/readmebox.svg)
