@@ -9,7 +9,6 @@ Currently studying at the University of Pembangunan Jaya for a degree in Informa
 * 🌍  I'm based in South Tangerang, Banten, Indonesia
 * 🧠  I'm learning Next.js, Typescript, Anime.js, Figma, GSAP, Framer
 * ⚡  I loves Anime, Web Animation, Artifical Intelligence (i'm not sure), Japanese language
-* 🍙  新しいことを学ぶのが好きな暇人です、よろしくヾ(≧▽≦*)o
 
 ### Skills
 
@@ -26,6 +25,10 @@ Currently studying at the University of Pembangunan Jaya for a degree in Informa
 
 <p align="center">
 <img src="https://count.getloli.com/get/@:RzCodez?theme=rule34" alt="" />
+</p>
+
+<p align="center">
+### 新しいことを学ぶのが好きな暇人です、よろしくヾ(≧▽≦*)o
 </p>
 
 ![animationbox](https://raw.githubusercontent.com/RzCodez/RzCodez/main/readmebox.svg)
