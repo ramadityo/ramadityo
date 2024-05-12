@@ -9,6 +9,7 @@ Currently studying at the University of Pembangunan Jaya for a degree in Informa
 * 🌍  I'm based in South Tangerang, Banten, Indonesia
 * 🧠  I'm learning Next.js, Typescript, Anime.js, Figma, GSAP, Framer
 * ⚡  I loves Anime, Web Animation, Artifical Intelligence (i'm not sure), Japanese language
+* 🍙  新しいことを学ぶのが好きな暇人です、よろしくヾ(≧▽≦*)o
 
 ### Skills
 
