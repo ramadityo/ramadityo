@@ -4,7 +4,7 @@ Hi 👋 My name is K. Ramadityo
 Student, Web & Mobile App Developer, Content Creator
 ---------------------------------------
 
-Currently studying at the University of Pembangunan Jaya for a degree in Informatics Engineering. Passionate about technology and design, leading to a journey in creative web development and UI/UX design. Loves the challenge of coding complex functionality and bringing designs to life. Expertise in UI/UX design enables the creation of intuitive and engaging digital experiences. Strong belief that a successful digital product is as much about thoughtful design as it is about well-written code. Always eager to learn more and take on new challenges in the technology industry.
+Passionate about technology and design, leading to a journey in creative web development and UI/UX design. Loves the challenge of coding complex functionality and bringing designs to life. Expertise in UI/UX design enables the creation of intuitive and engaging digital experiences. Strong belief that a successful digital product is as much about thoughtful design as it is about well-written code. Always eager to learn more and take on new challenges in the technology industry.
 
 * 🌍  I'm based in South Tangerang, Banten, Indonesia
 * 🧠  I'm learning Next.js, Typescript, Anime.js, Figma, GSAP, Framer
