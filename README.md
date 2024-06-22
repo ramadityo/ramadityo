@@ -1,5 +1,6 @@
 Hello!
 ================================
+Just ordinary people who act dumb, but slicker than honey.
 
 ### Skills
 
