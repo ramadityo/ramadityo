@@ -1,6 +1,6 @@
 Hello!
 ================================
-Just ordinary person who act dumb, but slicker than honey.
+🇮🇩 🇺🇸 🇯🇵
 
 ### Skills
 
