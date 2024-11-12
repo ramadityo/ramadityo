@@ -7,7 +7,8 @@ export const Adityo = () => {
   };
 
   const tech = ['Python', 'JavaScript', 'TypeScript', 'React', 'React Native', 'NextJS', 'Tailwind', 'Bootstrap', 'jQuery'];
+  const languages = ['Indonesian', 'Ambonese', 'English', '日本語'];
 
-  return {basic, tech};
+  return {basic, tech, languages};
 }
 ```
