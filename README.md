@@ -1,14 +1,1 @@
-```js
-export const Adityo = () => {
-  const basic = {
-    name: 'Rama Adityo',
-    city: 'South Tangerang',
-    role: 'Front End Web Developer',
-  };
-
-  const tech = ['Python', 'JavaScript', 'TypeScript', 'React', 'React Native', 'NextJS', 'Tailwind', 'Bootstrap', 'jQuery'];
-  const languages = ['Indonesian', 'Ambonese', 'English', '日本語'];
-
-  return {basic, tech, languages};
-}
-```
+<img src="https://cdn.discordapp.com/attachments/861064719866396704/1322840793127587840/Frame_7.png?ex=677256fe&is=6771057e&hm=88d472aa2b58c3d3daa34ea3630ab9f8686f884b9cd02d49760558a2ac8d3506&"/>
