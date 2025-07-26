@@ -1,7 +1,7 @@
 <img src="banner.png" />
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,taiwlind,bootstrap,figma,flask,mysql,react,nextjs,nodejs,opencv,ps,py" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,tailwind,bootstrap,figma,flask,mysql,react,nextjs,nodejs,opencv,ps,py" />
   </a>
 </p>
 
