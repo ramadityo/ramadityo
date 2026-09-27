@@ -1,4 +1,4 @@
-<img src="banner-new.png.png" />
+<img src="banner-adit.png.png" />
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,js,ts,tailwind,bootstrap,gsap,framer,figma,flask,mysql,react,nextjs,nodejs,opencv,ps,py&perline=9" />
